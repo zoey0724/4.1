@@ -1,0 +1,6 @@
+{
+  "name": "AIDC Workbench",
+  "description": "AIDC 数智化运营统一工作台 - 尚航数智化运营统一管理门户",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
